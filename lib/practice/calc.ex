@@ -15,7 +15,7 @@ defmodule Practice.Calc do
 
     # Hint:
     # expr
-    # |> split
+    # |>  split
     # |> tag_tokens  (e.g. [+, 1] => [{:op, "+"}, {:num, 1.0}]
     # |> convert to postfix
     # |> reverse to prefix
