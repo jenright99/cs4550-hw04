@@ -1,0 +1,35 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name? Jason Enright
+
+
+2. What hostname did you deploy your app to? hw04.jasonenright.com
+
+
+3. What's the URL of your git for this assignment? https://github.com/jenright99/cs4550-hw04.git
+
+
+4. How much of the functionality did you complete? Everything but the calculator
+
+
+5. Did you successfully deploy? If not, what's broken? I believe I successfully deployed. It is live on my site however there are still errors in the terminal.
+
+
+6. How comfortable do you feel with Elixir now? Very, very uncomfortable. 
+
+
+7. Which parts of this assignment did you have trouble with, if any? Learning elixir was a struggle. I could not get a handle on the commands and feel like I stumbled through this assignment if I am being honest.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
